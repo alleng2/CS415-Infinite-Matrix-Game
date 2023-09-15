@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Allen Guo/infinite-matrix/CS415-Infinite-Matrix-Game/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+				"C:/Users/Allen Guo/infinite-matrix/CS415-Infinite-Matrix-Game/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Allen Guo/infinite-matrix/CS415-Infinite-Matrix-Game/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Allen Guo/infinite-matrix/CS415-Infinite-Matrix-Game/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Allen Guo/infinite-matrix/CS415-Infinite-Matrix-Game/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset"
 			]
 		}
 	]
